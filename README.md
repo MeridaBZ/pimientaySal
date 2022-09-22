@@ -1,4 +1,4 @@
-# TP N°10 PATRONES DE DISEÑO MVC
+# TP N°11 Vistas Dinámicas EJS - PIMIENTA & SAL
 ---
 
 - BLANEZ, Mariana
